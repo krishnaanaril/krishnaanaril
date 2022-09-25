@@ -2,7 +2,8 @@
 
 Senior Software Engineer.
 
-- 🌱 I’m still learning **Docker & Kubernetes**
+- 🌱 I’m currently learning **System design & architecture**
+- 💬 Ask me about C#, .NET, TypeScript, Angular, SQL Server, Couchbase, Azure, Git, REST APIs, and GraphQL.
 
 <!--
 **krishnaanaril/krishnaanaril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
